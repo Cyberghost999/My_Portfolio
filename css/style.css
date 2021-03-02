@@ -27,7 +27,7 @@
   font-family: italic;
 }
 .content {
-  color: #B3FFFF;
+  color: #b088f9;
   padding-top: 225px;
   font-size: 30px;
   text-align: center;
@@ -38,7 +38,7 @@
   text-align: center;
 }
 .info {
-  color: #B3FFFF;
+  color: #b088f9;
   font-size: 30px;
   text-align: center;
   padding-bottom: 350px;
@@ -54,15 +54,16 @@
 .about_image {
     float: right;
     border-radius: 50%;
-    height: 350px;
-    width: 350px;
-   border-left: 20cm;
+    height: 400px;
+    width: 400px;
+   
     
 }
 .services {
-  background-color: #b5b0b0;
+  background-color: #e3f2fd;;
   margin-top: 200px;
   padding-bottom: 1cm;
+  color: #b088f9;
 }
 .services {
   height: 400px;
@@ -127,4 +128,14 @@ footer {
   .web_development {
     padding-bottom: 2cm;
   }
+}
+.imgcss {
+  display: flex;
+  justify-content: right;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.color {
+  color:#b088f9;
 }
